@@ -1,0 +1,17 @@
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\bin\Debug\netcoreapp3.1\CombinedLayouts.exe
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\bin\Debug\netcoreapp3.1\CombinedLayouts.deps.json
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\bin\Debug\netcoreapp3.1\CombinedLayouts.runtimeconfig.json
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\bin\Debug\netcoreapp3.1\CombinedLayouts.runtimeconfig.dev.json
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\bin\Debug\netcoreapp3.1\CombinedLayouts.dll
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\bin\Debug\netcoreapp3.1\CombinedLayouts.pdb
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts.csprojAssemblyReference.cache
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts_MarkupCompile.cache
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts_MarkupCompile.lref
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts.g.resources
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts.AssemblyInfoInputs.cache
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts.AssemblyInfo.cs
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts.dll
+C:\Users\mwbockma\source\repos\CombinedLayouts\CombinedLayouts\obj\Debug\netcoreapp3.1\CombinedLayouts.pdb
