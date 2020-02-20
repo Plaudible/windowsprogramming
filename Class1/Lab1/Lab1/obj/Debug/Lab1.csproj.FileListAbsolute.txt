@@ -1,0 +1,7 @@
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\bin\Debug\Lab1.exe
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\bin\Debug\Lab1.pdb
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\obj\Debug\Lab1.exe
+\\hd.ad.syr.edu\01\35404c\Documents\Desktop\CSE483 Lab 1\Lab1\Lab1\obj\Debug\Lab1.pdb
